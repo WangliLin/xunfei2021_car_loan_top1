@@ -1,0 +1,2 @@
+xgboost==1.4.2
+lightgbm==3.2.1
